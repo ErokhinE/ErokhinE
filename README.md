@@ -4,6 +4,8 @@ I have embarked on my journey as a Data Analyst in my first year at Innopolis Un
 
 Skills: Python/Pandas/Numpy/SQL
 
+Languages: Russian, English(B2 - C1) 
+
 - 🔭 I’m currently working on this page. 
 
 
